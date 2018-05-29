@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TheraTunes</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <color name="theraGreen">#6CCCBC</color>
+    <color name="white">#FFFFFF</color>
+    <color name="theraPink">#F6AAAD</color>
+    <string name="button_login">Login</string>
+    <string name="button_signup">Sign Up</string>
+    <color name="theraLightGreen">#D5F6AA</color>
+    <string name="emailTitle">Email</string>
+    <string name="passwordTitle">Password</string>
+    <string name="submit">Submit</string>
+    <string name="miniGameButton">Go to Mini Game</string>
+</resources>
